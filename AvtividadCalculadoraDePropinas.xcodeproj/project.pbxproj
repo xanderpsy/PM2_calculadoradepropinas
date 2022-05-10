@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		748DE9BB28296199009B295C /* SegundoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748DE9BA28296199009B295C /* SegundoViewController.swift */; };
 		74A412752825648F0086D4AE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74A412742825648F0086D4AE /* AppDelegate.swift */; };
 		74A412772825648F0086D4AE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74A412762825648F0086D4AE /* SceneDelegate.swift */; };
 		74A412792825648F0086D4AE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74A412782825648F0086D4AE /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		748DE9BA28296199009B295C /* SegundoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegundoViewController.swift; sourceTree = "<group>"; };
 		74A412712825648F0086D4AE /* AvtividadCalculadoraDePropinas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AvtividadCalculadoraDePropinas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74A412742825648F0086D4AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		74A412762825648F0086D4AE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				74A4127D282564920086D4AE /* Assets.xcassets */,
 				74A4127F282564920086D4AE /* LaunchScreen.storyboard */,
 				74A41282282564920086D4AE /* Info.plist */,
+				748DE9BA28296199009B295C /* SegundoViewController.swift */,
 			);
 			path = AvtividadCalculadoraDePropinas;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				74A412792825648F0086D4AE /* ViewController.swift in Sources */,
 				74A412752825648F0086D4AE /* AppDelegate.swift in Sources */,
+				748DE9BB28296199009B295C /* SegundoViewController.swift in Sources */,
 				74A412772825648F0086D4AE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
